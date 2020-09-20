@@ -7,6 +7,7 @@ npx arpit
 ```
 And get to know me in unique style.
 
+###  All I ask of you all is to put a **star** ⭐ on this project and not claim this effort as your own ♥.
 <hr/>
 
 ##### STEPS TO CREATE YOUR OWN
@@ -16,8 +17,8 @@ And get to know me in unique style.
 Start a new `node` project and name it whatever you want. You could choose to name it after the executable you want to expose. It’s not necessary but conventions are nice, and it makes your binary more `npx` friendly.
 
 ```bash
-mkdir anmol
-cd anmol
+mkdir arpit
+cd arpit
 npm init -y
 ```
 At first, let’s get the necessary CLI working.
