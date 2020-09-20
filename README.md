@@ -3,7 +3,7 @@ This my NPX card unique style to connect with me directly via console or termina
 
 👇 just hit
 ```bash
-npx arpit
+npx arpityadav
 ```
 And get to know me in unique style.
 
@@ -17,8 +17,8 @@ And get to know me in unique style.
 Start a new `node` project and name it whatever you want. You could choose to name it after the executable you want to expose. It’s not necessary but conventions are nice, and it makes your binary more `npx` friendly.
 
 ```bash
-mkdir arpit
-cd arpit
+mkdir arpityadav
+cd arpityadav
 npm init -y
 ```
 At first, let’s get the necessary CLI working.

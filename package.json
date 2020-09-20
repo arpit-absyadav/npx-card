@@ -1,5 +1,5 @@
 {
-  "name": "arpit",
+  "name": "arpityadav",
   "version": "1.0.0",
   "description": "",
   "main": "card.js",
@@ -10,6 +10,7 @@
     "test": "node card.js",
     "pub": "npm version patch & npm publish"
   },
+  "private": false,
   "dependencies": {
     "boxen": "^4.2.0",
     "chalk": "^4.1.0",
