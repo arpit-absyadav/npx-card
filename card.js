@@ -58,7 +58,7 @@ const data = {
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("arpitabsyadav"),
     web: chalk.cyan("https://arpit-absyadav.github.io"),
     stackoverflow: chalk.gray("https://stackoverflow.com/users/") + chalk.blue("2165443/arpit-yadav"),
-    npx: chalk.red("npx") + " " + chalk.white("arpit"),
+    npx: chalk.red("npx") + " " + chalk.white("arpityadav"),
 
     labelWork: chalk.white.bold("         Work:"),
     labelTwitter: chalk.white.bold("      Twitter:"),
