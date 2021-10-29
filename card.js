@@ -49,8 +49,8 @@ const questions = [
 
 const data = {
     name: chalk.bold.green("             Arpit Yadav [ arpit.absyadav@gmail.com ]"),
-    handle: chalk.white("@arpit-absyadav"),
-    work: `${chalk.white("Software Engineer at")} ${chalk
+    handle: chalk.gray("@arpit-absyadav"),
+    work: `${chalk.gray("Software Engineer at")} ${chalk
         .hex("#2b82b2")
         .bold("Yapsody")}`,
     twitter: chalk.gray("https://twitter.com/") + chalk.cyan("arpitabsyadav"),
@@ -58,15 +58,15 @@ const data = {
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("arpitabsyadav"),
     web: chalk.cyan("https://arpit-absyadav.github.io"),
     stackoverflow: chalk.gray("https://stackoverflow.com/users/") + chalk.blue("2165443/arpit-yadav"),
-    npx: chalk.red("npx") + " " + chalk.white("arpityadav"),
+    npx: chalk.red("npx") + " " + chalk.gray("arpityadav"),
 
-    labelWork: chalk.white.bold("         Work:"),
-    labelTwitter: chalk.white.bold("      Twitter:"),
-    labelGitHub: chalk.white.bold("       GitHub:"),
-    labelLinkedIn: chalk.white.bold("     LinkedIn:"),
-    labelWeb: chalk.white.bold("          Web:"),
-    labelStackoverflow: chalk.white.bold("Stackoverflow:"),
-    labelCard: chalk.white.bold("         Card:")
+    labelWork: chalk.gray.bold("         Work:"),
+    labelTwitter: chalk.gray.bold("      Twitter:"),
+    labelGitHub: chalk.gray.bold("       GitHub:"),
+    labelLinkedIn: chalk.gray.bold("     LinkedIn:"),
+    labelWeb: chalk.gray.bold("          Web:"),
+    labelStackoverflow: chalk.gray.bold("Stackoverflow:"),
+    labelCard: chalk.gray.bold("         Card:")
 };
 
 const me = boxen(
