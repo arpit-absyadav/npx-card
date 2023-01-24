@@ -52,7 +52,7 @@ const data = {
     handle: chalk.gray("@arpit-absyadav"),
     work: `${chalk.gray("Software Engineer at")} ${chalk
         .hex("#2b82b2")
-        .bold("Yapsody")}`,
+        .bold("Sunstone")}`,
     twitter: chalk.gray("https://twitter.com/") + chalk.cyan("arpitabsyadav"),
     github: chalk.gray("https://github.com/") + chalk.green("arpit-absyadav"),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("arpitabsyadav"),
